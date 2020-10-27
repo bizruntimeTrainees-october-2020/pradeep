@@ -1,0 +1,16 @@
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\merge.exe
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.AssemblyInfo.cs
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\merge.deps.json
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\merge.runtimeconfig.json
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\merge.runtimeconfig.dev.json
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\merge.dll
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\merge.pdb
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\prade\source\repos\merge\merge\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.csproj.CopyComplete
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.dll
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.pdb
+C:\Users\prade\source\repos\merge\merge\obj\Debug\netcoreapp3.1\merge.genruntimeconfig.cache

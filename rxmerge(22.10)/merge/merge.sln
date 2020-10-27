@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "merge", "merge\merge.csproj", "{8B2D8B6D-C424-4009-AFA8-EBF2253CD4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2D8B6D-C424-4009-AFA8-EBF2253CD4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2D8B6D-C424-4009-AFA8-EBF2253CD4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2D8B6D-C424-4009-AFA8-EBF2253CD4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2D8B6D-C424-4009-AFA8-EBF2253CD4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22A0138-195A-44AC-B479-0A00CDB2E0CC}
+	EndGlobalSection
+EndGlobal
