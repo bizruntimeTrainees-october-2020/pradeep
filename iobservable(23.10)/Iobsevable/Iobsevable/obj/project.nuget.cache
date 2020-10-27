@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCSTNQ4o1KWDOuYxoKoi+MAQXwlyZvLHKtTtx2P4qLyw4qjmIWe+MVHA2zs/vyxqOF04KvbEZ6hiY8nYYyCGTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prade\\source\\repos\\Iobsevable\\Iobsevable\\Iobsevable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prade\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
