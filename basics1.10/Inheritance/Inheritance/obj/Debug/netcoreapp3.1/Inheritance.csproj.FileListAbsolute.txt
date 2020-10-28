@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\dell\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\dell\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\dell\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\dell\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\dell\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\dell\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\dell\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\dell\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
