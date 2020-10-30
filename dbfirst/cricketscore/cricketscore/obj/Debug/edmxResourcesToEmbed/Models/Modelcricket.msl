@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="cricketModelStoreContainer" CdmEntityContainer="cricketEntities">
+    <EntitySetMapping Name="scores">
+      <EntityTypeMapping TypeName="cricketModel.score">
+        <MappingFragment StoreEntitySet="score">
+          <ScalarProperty Name="plno" ColumnName="plno" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+          <ScalarProperty Name="score1" ColumnName="score" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
