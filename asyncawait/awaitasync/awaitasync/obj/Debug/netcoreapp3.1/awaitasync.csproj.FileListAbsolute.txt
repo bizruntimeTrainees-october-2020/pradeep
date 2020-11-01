@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\awaitasync\awaitasync\bin\Debug\netcoreapp3.1\awaitasync.exe
+C:\Users\dell\source\repos\awaitasync\awaitasync\bin\Debug\netcoreapp3.1\awaitasync.deps.json
+C:\Users\dell\source\repos\awaitasync\awaitasync\bin\Debug\netcoreapp3.1\awaitasync.runtimeconfig.json
+C:\Users\dell\source\repos\awaitasync\awaitasync\bin\Debug\netcoreapp3.1\awaitasync.runtimeconfig.dev.json
+C:\Users\dell\source\repos\awaitasync\awaitasync\bin\Debug\netcoreapp3.1\awaitasync.dll
+C:\Users\dell\source\repos\awaitasync\awaitasync\bin\Debug\netcoreapp3.1\awaitasync.pdb
+C:\Users\dell\source\repos\awaitasync\awaitasync\obj\Debug\netcoreapp3.1\awaitasync.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\awaitasync\awaitasync\obj\Debug\netcoreapp3.1\awaitasync.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\awaitasync\awaitasync\obj\Debug\netcoreapp3.1\awaitasync.AssemblyInfo.cs
+C:\Users\dell\source\repos\awaitasync\awaitasync\obj\Debug\netcoreapp3.1\awaitasync.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\awaitasync\awaitasync\obj\Debug\netcoreapp3.1\awaitasync.dll
+C:\Users\dell\source\repos\awaitasync\awaitasync\obj\Debug\netcoreapp3.1\awaitasync.pdb
+C:\Users\dell\source\repos\awaitasync\awaitasync\obj\Debug\netcoreapp3.1\awaitasync.genruntimeconfig.cache
