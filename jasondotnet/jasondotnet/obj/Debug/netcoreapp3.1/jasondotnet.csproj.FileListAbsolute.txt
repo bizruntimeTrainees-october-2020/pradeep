@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\bin\Debug\netcoreapp3.1\jasondotnet.exe
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\bin\Debug\netcoreapp3.1\jasondotnet.deps.json
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\bin\Debug\netcoreapp3.1\jasondotnet.runtimeconfig.json
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\bin\Debug\netcoreapp3.1\jasondotnet.runtimeconfig.dev.json
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\bin\Debug\netcoreapp3.1\jasondotnet.dll
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\bin\Debug\netcoreapp3.1\jasondotnet.pdb
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.AssemblyInfo.cs
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.dll
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.pdb
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.genruntimeconfig.cache
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\jasondotnet\jasondotnet\obj\Debug\netcoreapp3.1\jasondotnet.csproj.CopyComplete

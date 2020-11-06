@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KssX87a985ZQ1cjiGsgff88lZfQg0UP1IAVPmbKGtjNxVVqEaOEomkNsfazNeGusPS6/W8rCGE3KTtJ0jq7Ylw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prade\\source\\repos\\jasondotnet\\jasondotnet\\jasondotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prade\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
