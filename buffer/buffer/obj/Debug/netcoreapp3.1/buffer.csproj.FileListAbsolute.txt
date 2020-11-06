@@ -1,0 +1,16 @@
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\buffer.exe
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.csprojAssemblyReference.cache
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.AssemblyInfo.cs
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\buffer.deps.json
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\buffer.runtimeconfig.json
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\buffer.runtimeconfig.dev.json
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\buffer.dll
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\buffer.pdb
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\prade\source\repos\buffer\buffer\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.csproj.CopyComplete
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.dll
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.pdb
+C:\Users\prade\source\repos\buffer\buffer\obj\Debug\netcoreapp3.1\buffer.genruntimeconfig.cache

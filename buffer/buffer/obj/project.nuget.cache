@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qab814l56R/Rb09MigxZMDowEFHuszFV0d/UdMBatQxUAAwzAKaSL8Qbz2oB7T6zD8sgjGuXbrKfD0fY0XcYhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prade\\source\\repos\\buffer\\buffer\\buffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prade\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
