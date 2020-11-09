@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Deligates\Deligates\bin\Debug\netcoreapp3.1\Deligates.exe
+C:\Users\dell\source\repos\Deligates\Deligates\bin\Debug\netcoreapp3.1\Deligates.deps.json
+C:\Users\dell\source\repos\Deligates\Deligates\bin\Debug\netcoreapp3.1\Deligates.runtimeconfig.json
+C:\Users\dell\source\repos\Deligates\Deligates\bin\Debug\netcoreapp3.1\Deligates.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Deligates\Deligates\bin\Debug\netcoreapp3.1\Deligates.dll
+C:\Users\dell\source\repos\Deligates\Deligates\bin\Debug\netcoreapp3.1\Deligates.pdb
+C:\Users\dell\source\repos\Deligates\Deligates\obj\Debug\netcoreapp3.1\Deligates.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Deligates\Deligates\obj\Debug\netcoreapp3.1\Deligates.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Deligates\Deligates\obj\Debug\netcoreapp3.1\Deligates.AssemblyInfo.cs
+C:\Users\dell\source\repos\Deligates\Deligates\obj\Debug\netcoreapp3.1\Deligates.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Deligates\Deligates\obj\Debug\netcoreapp3.1\Deligates.dll
+C:\Users\dell\source\repos\Deligates\Deligates\obj\Debug\netcoreapp3.1\Deligates.pdb
+C:\Users\dell\source\repos\Deligates\Deligates\obj\Debug\netcoreapp3.1\Deligates.genruntimeconfig.cache
